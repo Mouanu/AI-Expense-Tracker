@@ -1,0 +1,19 @@
+# dependencies
+**/node_modules/
+
+# environment variables
+**/.env
+**/.env.*
+
+# logs
+*.log
+
+# build output
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+Recording.mp4
