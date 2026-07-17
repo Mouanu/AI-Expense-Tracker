@@ -178,17 +178,27 @@ The database follows a normalized relational design with:
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+### Login
 
-Example:
+![Login](screenshots/login.png)
 
-```
-screenshots/
-    dashboard.png
-    transactions.png
-    budget.png
-```
+### Dashboard
 
+![Dashboard](screenshots/dashboard.png)
+
+### Transactions
+
+![Transactions](screenshots/transaction.png)
+
+### Budget
+
+![Budget](screenshots/budgets.png)
+
+### AI Insights
+
+![AI Insights](screenshots/AiInsight1.png)
+
+![AI Insights](screenshots/AiInsight2.png)
 ---
 
 ## 📈 Future Improvements
@@ -209,10 +219,5 @@ screenshots/
 
 GitHub: https://github.com/Mouanu
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/anushila-biswas-024891293
 
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
